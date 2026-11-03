@@ -1,0 +1,20 @@
+{
+  "apis": [
+    {
+      "name": "Cat Fact API",
+      "category": "Animals",
+      "url": "https://catfact.ninja/fact",
+      "auth": "No",
+      "https": true,
+      "status": "Active"
+    },
+    {
+      "name": "Public APIs Registry",
+      "category": "Development",
+      "url": "https://api.publicapis.org/entries",
+      "auth": "No",
+      "https": true,
+      "status": "Active"
+    }
+  ]
+}
